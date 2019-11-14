@@ -47,3 +47,13 @@ Decoupled Frontend
 SEO is challenging 
 JavaScript is required
 Tends to favor modern browsers
+
+MPA:
+SEO is simple
+Loads of existing frameworks, solutions and best practices
+Slower, constantly needs to reload pages
+(More)tightly coupled frontend & backend
+Tends to support more legacy browsers does not depend on javascript that much
+
+MVC - Model View Controller: 
+This pattern is used to separate application's concerns. Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes
